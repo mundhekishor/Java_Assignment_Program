@@ -1,0 +1,44 @@
+1. What is java and why is it platform-independent?
+	java is object-oriented programming language deveployed by sun microsystems  in 1995. it is used for bulding web applications,android apps and enterprice system.
+        it is secure, platform-independent and mutlithread programming language.
+
+	java is platform-independent because javac compiler compile .java file into .class file, this .class file contain bytecode. bytecode can run on any operating system which have jvm,    
+	so bytecode make java platform-independent.
+
+2.Explain the feature of java.
+	1.java is simple programming language because it remove complex features such as pointer, operating overloading.
+	2.java is object-oriented programming language, it support class, object, inheritance, abstaction, encapsulation, polymorphism.
+        3.java is platform-independent, bytecode which run on any operationg system that makes java platform indepenedent.
+	4.Java supports multithreading, where multiple thread execute independent task at same time which improves performance.
+	5.Java provides security through features like bytecode verification, class loaders, and security manager, which protect the system from harmful programs.
+
+3.what is the different between jdk, jre, jvm?
+	jdk - jdk is java development kit which used to develop java application. it contain jre and development tool such as javac,java and jar.
+	jre - jre is java runtime environment which provides environment to run java programs. it contain jdk and java libraries.
+	jvm - jvm is java virtual machine which responsible to read bytecode and convert into machinecode.
+
+4.what is bytecode in java?
+	when javac compiler compile .java file into .class file. that .class contain set of instructions called bytecode.
+	bytecode is intermediated code which run on any operation system which has jvm. bytecode makes java platform-independent.
+
+5.Explain the concept of object-oriented programming.
+	1.Encapsulation- encapsulation means binding data together as singal unit and protect internal state from unauthorized acess. just like class, it bind variable, 
+	                 constructor and method as singal unit called class and making private variable and give access for authorized acess through public
+                         getter and setter method. 
+
+	2.Abstraction - abstraction means hiding internal implementation and only showing funtionality to user. we know what to do but not how to do that is abstration.
+			abstraction can be achived by abstact and interface keyword. it reduce complexity of program.
+
+	3.Inheritance - when class acquire properties and behaviours of another class and make is-a relationship that is called          inheritance.
+                        extend keyword is used for inheritance.
+
+	4.Polymorphism - polymorphism means many forms. it allow singal method behave differently in different contexts.
+			 for exammple singal method draw() behave differently in different context suc as circle, triangle and rectangle.
+			 it is achieved by method overloading and method overriding 
+
+	 
+
+
+
+
+                                                                            
